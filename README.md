@@ -1,6 +1,6 @@
 <h1 align="center">  Training_CSHARP.NET </h1>
 
-<h1> Repositório de programas desenvolvidos para solucionar exercícios com C#. </h1>
+<h3> Repositório de programas desenvolvidos para solucionar exercícios com C#. </h3>
 
 
 ##FIBONACCI##
