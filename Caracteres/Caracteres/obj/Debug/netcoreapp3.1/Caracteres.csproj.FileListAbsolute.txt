@@ -1,0 +1,14 @@
+C:\Workspace\Caracteres\Caracteres\bin\Debug\netcoreapp3.1\Caracteres.exe
+C:\Workspace\Caracteres\Caracteres\bin\Debug\netcoreapp3.1\Caracteres.deps.json
+C:\Workspace\Caracteres\Caracteres\bin\Debug\netcoreapp3.1\Caracteres.runtimeconfig.json
+C:\Workspace\Caracteres\Caracteres\bin\Debug\netcoreapp3.1\Caracteres.runtimeconfig.dev.json
+C:\Workspace\Caracteres\Caracteres\bin\Debug\netcoreapp3.1\Caracteres.dll
+C:\Workspace\Caracteres\Caracteres\bin\Debug\netcoreapp3.1\Caracteres.pdb
+C:\Workspace\Caracteres\Caracteres\obj\Debug\netcoreapp3.1\Caracteres.csproj.AssemblyReference.cache
+C:\Workspace\Caracteres\Caracteres\obj\Debug\netcoreapp3.1\Caracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Caracteres\Caracteres\obj\Debug\netcoreapp3.1\Caracteres.AssemblyInfoInputs.cache
+C:\Workspace\Caracteres\Caracteres\obj\Debug\netcoreapp3.1\Caracteres.AssemblyInfo.cs
+C:\Workspace\Caracteres\Caracteres\obj\Debug\netcoreapp3.1\Caracteres.csproj.CoreCompileInputs.cache
+C:\Workspace\Caracteres\Caracteres\obj\Debug\netcoreapp3.1\Caracteres.dll
+C:\Workspace\Caracteres\Caracteres\obj\Debug\netcoreapp3.1\Caracteres.pdb
+C:\Workspace\Caracteres\Caracteres\obj\Debug\netcoreapp3.1\Caracteres.genruntimeconfig.cache
