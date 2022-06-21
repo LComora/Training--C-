@@ -1,0 +1,34 @@
+C:\Workspace\Faturamento\Faturamento\bin\Debug\netcoreapp3.1\Faturamento.exe
+C:\Workspace\Faturamento\Faturamento\bin\Debug\netcoreapp3.1\dados.json
+C:\Workspace\Faturamento\Faturamento\bin\Debug\netcoreapp3.1\Faturamento.deps.json
+C:\Workspace\Faturamento\Faturamento\bin\Debug\netcoreapp3.1\Faturamento.runtimeconfig.json
+C:\Workspace\Faturamento\Faturamento\bin\Debug\netcoreapp3.1\Faturamento.runtimeconfig.dev.json
+C:\Workspace\Faturamento\Faturamento\bin\Debug\netcoreapp3.1\Faturamento.dll
+C:\Workspace\Faturamento\Faturamento\bin\Debug\netcoreapp3.1\Faturamento.pdb
+C:\Workspace\Faturamento\Faturamento\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Workspace\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.csproj.AssemblyReference.cache
+C:\Workspace\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.AssemblyInfoInputs.cache
+C:\Workspace\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.AssemblyInfo.cs
+C:\Workspace\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.csproj.CoreCompileInputs.cache
+C:\Workspace\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.csproj.CopyComplete
+C:\Workspace\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.dll
+C:\Workspace\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.pdb
+C:\Workspace\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.genruntimeconfig.cache
+C:\Workspace\Training C#\Faturamento\Faturamento\bin\Debug\netcoreapp3.1\Faturamento.exe
+C:\Workspace\Training C#\Faturamento\Faturamento\bin\Debug\netcoreapp3.1\dados.json
+C:\Workspace\Training C#\Faturamento\Faturamento\bin\Debug\netcoreapp3.1\Faturamento.deps.json
+C:\Workspace\Training C#\Faturamento\Faturamento\bin\Debug\netcoreapp3.1\Faturamento.runtimeconfig.json
+C:\Workspace\Training C#\Faturamento\Faturamento\bin\Debug\netcoreapp3.1\Faturamento.runtimeconfig.dev.json
+C:\Workspace\Training C#\Faturamento\Faturamento\bin\Debug\netcoreapp3.1\Faturamento.dll
+C:\Workspace\Training C#\Faturamento\Faturamento\bin\Debug\netcoreapp3.1\Faturamento.pdb
+C:\Workspace\Training C#\Faturamento\Faturamento\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Workspace\Training C#\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.csproj.AssemblyReference.cache
+C:\Workspace\Training C#\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Training C#\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.AssemblyInfoInputs.cache
+C:\Workspace\Training C#\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.AssemblyInfo.cs
+C:\Workspace\Training C#\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.csproj.CoreCompileInputs.cache
+C:\Workspace\Training C#\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.csproj.CopyComplete
+C:\Workspace\Training C#\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.dll
+C:\Workspace\Training C#\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.pdb
+C:\Workspace\Training C#\Faturamento\Faturamento\obj\Debug\netcoreapp3.1\Faturamento.genruntimeconfig.cache
