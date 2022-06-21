@@ -1,0 +1,14 @@
+C:\Workspace\Training C#\Distribuidora\Distribuidora\bin\Debug\netcoreapp3.1\Distribuidora.exe
+C:\Workspace\Training C#\Distribuidora\Distribuidora\bin\Debug\netcoreapp3.1\Distribuidora.deps.json
+C:\Workspace\Training C#\Distribuidora\Distribuidora\bin\Debug\netcoreapp3.1\Distribuidora.runtimeconfig.json
+C:\Workspace\Training C#\Distribuidora\Distribuidora\bin\Debug\netcoreapp3.1\Distribuidora.runtimeconfig.dev.json
+C:\Workspace\Training C#\Distribuidora\Distribuidora\bin\Debug\netcoreapp3.1\Distribuidora.dll
+C:\Workspace\Training C#\Distribuidora\Distribuidora\bin\Debug\netcoreapp3.1\Distribuidora.pdb
+C:\Workspace\Training C#\Distribuidora\Distribuidora\obj\Debug\netcoreapp3.1\Distribuidora.csproj.AssemblyReference.cache
+C:\Workspace\Training C#\Distribuidora\Distribuidora\obj\Debug\netcoreapp3.1\Distribuidora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Training C#\Distribuidora\Distribuidora\obj\Debug\netcoreapp3.1\Distribuidora.AssemblyInfoInputs.cache
+C:\Workspace\Training C#\Distribuidora\Distribuidora\obj\Debug\netcoreapp3.1\Distribuidora.AssemblyInfo.cs
+C:\Workspace\Training C#\Distribuidora\Distribuidora\obj\Debug\netcoreapp3.1\Distribuidora.csproj.CoreCompileInputs.cache
+C:\Workspace\Training C#\Distribuidora\Distribuidora\obj\Debug\netcoreapp3.1\Distribuidora.dll
+C:\Workspace\Training C#\Distribuidora\Distribuidora\obj\Debug\netcoreapp3.1\Distribuidora.pdb
+C:\Workspace\Training C#\Distribuidora\Distribuidora\obj\Debug\netcoreapp3.1\Distribuidora.genruntimeconfig.cache
