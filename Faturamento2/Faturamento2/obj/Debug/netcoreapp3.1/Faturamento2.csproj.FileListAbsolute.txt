@@ -1,0 +1,14 @@
+C:\Workspace\Training C#\Faturamento2\Faturamento2\obj\Debug\netcoreapp3.1\Faturamento2.csproj.AssemblyReference.cache
+C:\Workspace\Training C#\Faturamento2\Faturamento2\obj\Debug\netcoreapp3.1\Faturamento2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Training C#\Faturamento2\Faturamento2\obj\Debug\netcoreapp3.1\Faturamento2.AssemblyInfoInputs.cache
+C:\Workspace\Training C#\Faturamento2\Faturamento2\obj\Debug\netcoreapp3.1\Faturamento2.AssemblyInfo.cs
+C:\Workspace\Training C#\Faturamento2\Faturamento2\obj\Debug\netcoreapp3.1\Faturamento2.csproj.CoreCompileInputs.cache
+C:\Workspace\Training C#\Faturamento2\Faturamento2\bin\Debug\netcoreapp3.1\Faturamento2.exe
+C:\Workspace\Training C#\Faturamento2\Faturamento2\bin\Debug\netcoreapp3.1\Faturamento2.deps.json
+C:\Workspace\Training C#\Faturamento2\Faturamento2\bin\Debug\netcoreapp3.1\Faturamento2.runtimeconfig.json
+C:\Workspace\Training C#\Faturamento2\Faturamento2\bin\Debug\netcoreapp3.1\Faturamento2.runtimeconfig.dev.json
+C:\Workspace\Training C#\Faturamento2\Faturamento2\bin\Debug\netcoreapp3.1\Faturamento2.dll
+C:\Workspace\Training C#\Faturamento2\Faturamento2\bin\Debug\netcoreapp3.1\Faturamento2.pdb
+C:\Workspace\Training C#\Faturamento2\Faturamento2\obj\Debug\netcoreapp3.1\Faturamento2.dll
+C:\Workspace\Training C#\Faturamento2\Faturamento2\obj\Debug\netcoreapp3.1\Faturamento2.pdb
+C:\Workspace\Training C#\Faturamento2\Faturamento2\obj\Debug\netcoreapp3.1\Faturamento2.genruntimeconfig.cache
