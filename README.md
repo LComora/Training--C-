@@ -13,7 +13,7 @@ Calcula o faturamento diário de uma distribuidora durante o período de um mês
 Dado os valores de faturamento mensal de uma distribuidora, detalhado por estados, calcula o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
 </h5>
 <h5>FATURAMENTO 2:
-Com o mesmo objetivo do anterior, porém utilizando não utilizando funções nativas do sistema, e sim funções criadas manualmente e armazenadas em uma classe. Esse programa também dispensou os dias com faturamento igual a 0, que no caso são os finais de semana em que a empresa lógicamente não obteve nenhum lucro. 
+Com o mesmo objetivo do programa FATURAMENTO, porém utilizando não utilizando funções nativas do sistema, e sim funções criadas manualmente e armazenadas em uma classe. Esse programa também dispensou os dias com faturamento igual a 0, que no caso são os finais de semana em que a empresa lógicamente não obteve nenhum lucro. 
 </h5>
 <h5>CARACTERES:
 Programa que inverte os caracteres de uma string a partir do que o usuário digita.
